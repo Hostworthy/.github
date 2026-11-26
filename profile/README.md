@@ -13,13 +13,7 @@
   <img alt="Open source" src="https://img.shields.io/badge/open-source-DCE3E8?style=flat-square&labelColor=23303A">
 </p>
 
-<h3 align="center">Self-hostable tools and hard-won homelab knowledge, shared in the open.</h3>
-
-<p align="center">
-  I have been homelabbing for ages. Host39 is where I share what I have learned and what I have built along the way.
-  Good, self-hostable alternatives to everyday tools, existing open-source projects hosted and adapted where that makes more sense,
-  and honest documentation of how a real homelab is put together.
-</p>
+<h3 align="center">Self-hostable tools and hard-won homelab knowledge</h3>
 
 <p align="center"><b>New to homelabbing, or years in and tired of cloud subscriptions? There is something here for you.</b></p>
 

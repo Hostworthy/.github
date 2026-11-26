@@ -13,7 +13,7 @@
 <h3 align="center">The home repository of the Host39 organization.</h3>
 
 <p align="center">
-  Self-hostable tools and hard-won homelab knowledge, shared in the open.<br>
+  Self-hostable tools and hard-won homelab knowledge<br>
   Everything about Host39 and its projects is on the <a href="https://github.com/host39"><b>organization page</b></a>.
 </p>
 
