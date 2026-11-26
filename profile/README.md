@@ -1,10 +1,14 @@
 <p align="center">
-  <img alt="Host39. The homelab. Self-hosted services, infrastructure as code, and notes from the server under the desk." src="https://raw.githubusercontent.com/host39/.github/main/brandkit/social/banner-1280x640.png" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/host39/.github/main/brandkit/logo/svg/host39-badge-light.svg">
+    <img alt="Host39" src="https://raw.githubusercontent.com/host39/.github/main/brandkit/logo/svg/host39-badge.svg" width="112">
+  </picture>
 </p>
 
 <p align="center">
+  <img alt="Work in progress" src="https://img.shields.io/badge/status-WIP-E07A5F?style=flat-square&labelColor=23303A">
   <img alt="Self-hosted" src="https://img.shields.io/badge/self--hosted-first-6FA287?style=flat-square&labelColor=23303A">
-  <img alt="Homelab" src="https://img.shields.io/badge/built%20in%20a-homelab-E07A5F?style=flat-square&labelColor=23303A">
+  <img alt="Homelab" src="https://img.shields.io/badge/built%20in%20a-homelab-6B7780?style=flat-square&labelColor=23303A">
   <img alt="License AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-B4573A?style=flat-square&labelColor=23303A">
   <img alt="Open source" src="https://img.shields.io/badge/open-source-DCE3E8?style=flat-square&labelColor=23303A">
 </p>
@@ -19,48 +23,50 @@
 
 <p align="center"><b>New to homelabbing, or years in and tired of cloud subscriptions? There is something here for you.</b></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/divider.svg" width="100%" alt=""></p>
+---
 
-<img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/section-knowledge.svg" width="100%" alt="Knowledge">
+## Knowledge
 
-<p align="center">
-  <a href="https://github.com/host39/wikilab"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/wikilab.svg" width="49%" alt="host39/wikilab: the complete, thorough guide to how this homelab is built and run"></a>
-</p>
+| Repository | What it is |
+|---|---|
+| [**wikilab**](https://github.com/host39/wikilab) | The complete, thorough guide to how this homelab is built and run. |
 
-<img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/section-homelab.svg" width="100%" alt="Running the homelab">
+## Running the homelab
 
-<p align="center">
-  <a href="https://github.com/host39/headquarter"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/headquarter.svg" width="49%" alt="host39/headquarter: where all the homelab management happens"></a>
-  <a href="https://github.com/host39/tailscale"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/tailscale.svg" width="49%" alt="host39/tailscale: securely connects the homelab and its devices"></a>
-</p>
+| Repository | What it is |
+|---|---|
+| [**headquarter**](https://github.com/host39/headquarter) | Where all the homelab management happens. |
+| [**tailscale**](https://github.com/host39/tailscale) | Tailscale setup that securely connects the homelab and its devices. |
 
-<img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/section-apps.svg" width="100%" alt="Self-hosted apps">
+## Self-hosted apps
 
-<p align="center">
-  <a href="https://github.com/host39/taskies"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/taskies.svg" width="49%" alt="host39/taskies: self-hosted task management"></a>
-  <a href="https://github.com/host39/milestones"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/milestones.svg" width="49%" alt="host39/milestones: management for long-term projects"></a>
-  <a href="https://github.com/host39/rolodex"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/rolodex.svg" width="49%" alt="host39/rolodex: contact management"></a>
-  <a href="https://github.com/host39/split-spends"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/split-spends.svg" width="49%" alt="host39/split-spends: split shared expenses"></a>
-  <a href="https://github.com/host39/beats"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/beats.svg" width="49%" alt="host39/beats: self-hosted music applications"></a>
-  <a href="https://github.com/host39/copilot"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/copilot.svg" width="49%" alt="host39/copilot: one chat interface for all your AI models"></a>
-  <a href="https://github.com/host39/neighborhood"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/neighborhood.svg" width="49%" alt="host39/neighborhood: an open-source alternative to MyGate"></a>
-</p>
+| Repository | What it is |
+|---|---|
+| [**taskies**](https://github.com/host39/taskies) | Self-hosted task management. |
+| [**milestones**](https://github.com/host39/milestones) | Management for long-term projects. |
+| [**rolodex**](https://github.com/host39/rolodex) | Contact management you own. |
+| [**split-spends**](https://github.com/host39/split-spends) | Split shared expenses and transactions with friends and family. |
+| [**beats**](https://github.com/host39/beats) | Robust, modern music applications you host yourself. |
+| [**copilot**](https://github.com/host39/copilot) | One chat interface for all your AI models. |
+| [**neighborhood**](https://github.com/host39/neighborhood) | An open-source alternative to MyGate for housing communities. |
 
-<img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/section-building-blocks.svg" width="100%" alt="Auth and building blocks">
+## Auth and building blocks
 
-<p align="center">
-  <a href="https://github.com/host39/goauth"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/goauth.svg" width="49%" alt="host39/goauth: simple authentication HTTP server"></a>
-  <a href="https://github.com/host39/lib-goauth"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/lib-goauth.svg" width="49%" alt="host39/lib-goauth: Go authentication library"></a>
-  <a href="https://github.com/host39/lib-rustauth"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/lib-rustauth.svg" width="49%" alt="host39/lib-rustauth: Rust authentication library"></a>
-</p>
+| Repository | What it is |
+|---|---|
+| [**goauth**](https://github.com/host39/goauth) | A simple HTTP server that handles authentication. |
+| [**lib-goauth**](https://github.com/host39/lib-goauth) | Go library for authentication. |
+| [**lib-rustauth**](https://github.com/host39/lib-rustauth) | Rust library for authentication. |
 
-<img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/section-templates.svg" width="100%" alt="Templates">
+## Templates
 
-<p align="center">
-  <a href="https://github.com/host39/template-rust-init"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/cards/template-rust-init.svg" width="49%" alt="host39/template-rust-init: starter template for new Rust projects"></a>
-</p>
+Start your own project from these. Open the repository and click **Use this template**.
 
-<p align="center"><img src="https://raw.githubusercontent.com/host39/.github/main/profile/assets/divider.svg" width="100%" alt=""></p>
+| Template | What it is |
+|---|---|
+| [**template-rust-init**](https://github.com/host39/template-rust-init) | Starter template for new Rust projects. |
+
+---
 
 <p align="center">
   <sub>Most projects here are early and actively evolving. Expect rough edges, and expect things to get better.</sub><br>
