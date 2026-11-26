@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="76" viewBox="0 0 860 76" role="img" aria-label="Running the homelab">
+<rect x="1" y="1" width="858" height="74" rx="16" fill="#F7F5F0" stroke="#DCE3E8" stroke-width="2"/>
+<rect x="16" y="14" width="48" height="48" rx="12" fill="#23303A"/>
+<circle cx="54" cy="24" r="4.5" fill="#E07A5F"/>
+<text x="40" y="46" text-anchor="middle" font-family="Outfit, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F5F0">39</text>
+<text x="80" y="36" font-family="Outfit, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#23303A">Running the homelab</text>
+<text x="80" y="57" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6B7780">The infrastructure behind it all</text>
+</svg>
