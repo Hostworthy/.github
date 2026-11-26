@@ -25,46 +25,51 @@
 
 ---
 
-## Knowledge
+<h2 align="center">Knowledge</h2>
 
-| Repository | What it is |
-|---|---|
-| [**wikilab**](https://github.com/host39/wikilab) | The complete, thorough guide to how this homelab is built and run. |
+<table align="center">
+  <tr><th width="190">Repository</th><th width="550">What it is</th></tr>
+  <tr><td><a href="https://github.com/host39/wikilab"><b>wikilab</b></a></td><td>The complete, thorough guide to how this homelab is built and run.</td></tr>
+</table>
 
-## Running the homelab
+<h2 align="center">Running the homelab</h2>
 
-| Repository | What it is |
-|---|---|
-| [**headquarter**](https://github.com/host39/headquarter) | Where all the homelab management happens. |
-| [**tailscale**](https://github.com/host39/tailscale) | Tailscale setup that securely connects the homelab and its devices. |
+<table align="center">
+  <tr><th width="190">Repository</th><th width="550">What it is</th></tr>
+  <tr><td><a href="https://github.com/host39/headquarter"><b>headquarter</b></a></td><td>Where all the homelab management happens.</td></tr>
+  <tr><td><a href="https://github.com/host39/tailscale"><b>tailscale</b></a></td><td>Tailscale setup that securely connects the homelab and its devices.</td></tr>
+</table>
 
-## Self-hosted apps
+<h2 align="center">Self-hosted apps</h2>
 
-| Repository | What it is |
-|---|---|
-| [**taskies**](https://github.com/host39/taskies) | Self-hosted task management. |
-| [**milestones**](https://github.com/host39/milestones) | Management for long-term projects. |
-| [**rolodex**](https://github.com/host39/rolodex) | Contact management you own. |
-| [**split-spends**](https://github.com/host39/split-spends) | Split shared expenses and transactions with friends and family. |
-| [**beats**](https://github.com/host39/beats) | Robust, modern music applications you host yourself. |
-| [**copilot**](https://github.com/host39/copilot) | One chat interface for all your AI models. |
-| [**neighborhood**](https://github.com/host39/neighborhood) | An open-source alternative to MyGate for housing communities. |
+<table align="center">
+  <tr><th width="190">Repository</th><th width="550">What it is</th></tr>
+  <tr><td><a href="https://github.com/host39/taskies"><b>taskies</b></a></td><td>Self-hosted task management.</td></tr>
+  <tr><td><a href="https://github.com/host39/milestones"><b>milestones</b></a></td><td>Management for long-term projects.</td></tr>
+  <tr><td><a href="https://github.com/host39/rolodex"><b>rolodex</b></a></td><td>Contact management you own.</td></tr>
+  <tr><td><a href="https://github.com/host39/split-spends"><b>split-spends</b></a></td><td>Split shared expenses and transactions with friends and family.</td></tr>
+  <tr><td><a href="https://github.com/host39/beats"><b>beats</b></a></td><td>Robust, modern music applications you host yourself.</td></tr>
+  <tr><td><a href="https://github.com/host39/copilot"><b>copilot</b></a></td><td>One chat interface for all your AI models.</td></tr>
+  <tr><td><a href="https://github.com/host39/neighborhood"><b>neighborhood</b></a></td><td>An open-source alternative to MyGate for housing communities.</td></tr>
+</table>
 
-## Auth and building blocks
+<h2 align="center">Auth and building blocks</h2>
 
-| Repository | What it is |
-|---|---|
-| [**goauth**](https://github.com/host39/goauth) | A simple HTTP server that handles authentication. |
-| [**lib-goauth**](https://github.com/host39/lib-goauth) | Go library for authentication. |
-| [**lib-rustauth**](https://github.com/host39/lib-rustauth) | Rust library for authentication. |
+<table align="center">
+  <tr><th width="190">Repository</th><th width="550">What it is</th></tr>
+  <tr><td><a href="https://github.com/host39/goauth"><b>goauth</b></a></td><td>A simple HTTP server that handles authentication.</td></tr>
+  <tr><td><a href="https://github.com/host39/lib-goauth"><b>lib-goauth</b></a></td><td>Go library for authentication.</td></tr>
+  <tr><td><a href="https://github.com/host39/lib-rustauth"><b>lib-rustauth</b></a></td><td>Rust library for authentication.</td></tr>
+</table>
 
-## Templates
+<h2 align="center">Templates</h2>
 
-Start your own project from these. Open the repository and click **Use this template**.
+<p align="center">Start your own project from these. Open the repository and click <b>Use this template</b>.</p>
 
-| Template | What it is |
-|---|---|
-| [**template-rust-init**](https://github.com/host39/template-rust-init) | Starter template for new Rust projects. |
+<table align="center">
+  <tr><th width="190">Template</th><th width="550">What it is</th></tr>
+  <tr><td><a href="https://github.com/host39/template-rust-init"><b>template-rust-init</b></a></td><td>Starter template for new Rust projects.</td></tr>
+</table>
 
 ---
 
